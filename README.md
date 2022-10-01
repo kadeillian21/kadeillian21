@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  A code monkey in Bozeman, MT
+  A Ruby on Rails Developer
 </h1>
 
 <p align="center">
