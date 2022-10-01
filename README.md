@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20Kade!&height=100&section=header"/>
 </p>
 
+<h1 align="center">
+  A code monkey in Bozeman, MT
+</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif">
