@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,&I'm Kade!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Hi, I'm Kade💻
-</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif">
