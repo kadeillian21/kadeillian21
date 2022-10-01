@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://tenor.com/view/spike-monkey-typing-gif-10973398">
+  <img src="[https://tenor.com/view/spike-monkey-typing-gif-10973398](https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif)">
 </p>
 
 ---
