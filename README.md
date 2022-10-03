@@ -35,6 +35,34 @@ currently_learning: ["Ruby on Rails, DevOps, and React.js"]
 2022 Goals: ["Get my first job as a Ruby on Rails developer.."]
 hobbies: ["Backpacking", "Fly Fishing", "Financial Planning", "Lifting"]
 ```
+```ruby
+Description.Create(
+  name: "Kade Illian",
+  location: "Bozeman, Montana",
+  education: "Actualize Bootcamp", "Self-Taught",
+  areas_of_interests: [
+    "Ruby on Rails",
+    "DevOps",
+    "Learning C",
+    "React.js",
+    "Database Optimization",
+    "SQL",
+  ]
+  what_i_am_working_on: [
+    "Building out my personal website",
+    "Learning C on W3Schools",
+    "Contributing to the Ruby OSC",
+    "Developing a social media app with Kyle Pazdel",
+  ]
+  
+  hobbies: [
+    "Backpacking",
+    "Financial Planning",
+    "Lifting",
+    "Fly Fishing",
+  ]
+)
+```
   
 ---  
   
