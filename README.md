@@ -13,28 +13,6 @@
 ---
 
 <h2>A Little Bit About Me and My Interests 📸</h2>
-
-```yaml
-name: Kade Illian
-located_in: Bozeman, Montana
-education:
-  [
-    "Self-Taught Developer",
-    "Actualize Bootcamp,
-  ]
-
-areas_of_interests:
-  [
-    "Web Development",
-    "Database Design",
-    "Data Science",
-    "DevOps",
-  ]
-  
-currently_learning: ["Ruby on Rails, DevOps, and React.js"]
-2022 Goals: ["Get my first job as a Ruby on Rails developer.."]
-hobbies: ["Backpacking", "Fly Fishing", "Financial Planning", "Lifting"]
-```
 ```ruby
 Description.Create(
   name: "Kade Illian",
