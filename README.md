@@ -66,8 +66,8 @@ Description.Create(
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadeillian21&theme=noctis_minimus&layout=compact" align="right" /> 
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadeillian21&theme=noctis_minimus&layout=compact" /> 
 
 ![Snake animation](https://github.com/kadeillian21/kadeillian21/blob/output/github-contribution-grid-snake.svg)
   
