@@ -28,8 +28,8 @@ Description.Create(
     "SQL",
   ]
   what_i_am_working_on: [
-    "Building out my personal website",
-    "Learning C on W3Schools",
+    "Learning Elixir and Phoneix",
+    "Studying at Actualize Bootcamp",
     "Contributing to the Ruby OSC",
     "Developing a social media app with Kyle Pazdel",
   ]
@@ -50,6 +50,7 @@ Description.Create(
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rails" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" alt="phoenix" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/>
