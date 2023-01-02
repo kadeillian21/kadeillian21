@@ -26,6 +26,7 @@ Description.Create(
     "React.js",
     "Typescript",
     "SQL",
+    "MongoDb",
   ]
   what_i_am_working_on: [
     "Working as an intern for Biproxi, Bozeman",
