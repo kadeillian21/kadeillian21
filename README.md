@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  A Web Developer for Biproxi
+  A Software Engineer for Biproxi
 </h1>
 
 <p align="center">
@@ -20,6 +20,7 @@ Description.Create(
   location: "Bozeman, Montana",
   education: "Actualize Bootcamp", "Self-Taught",
   areas_of_interests: [
+    "Rust",
     "Ruby on Rails",
     "DevOps",
     "Next.js",
@@ -29,9 +30,9 @@ Description.Create(
     "MongoDb",
   ]
   what_i_am_working_on: [
-    "Working as an intern for Biproxi, Bozeman",
-    "Building a hunting app with React",
-    "Learning full-stack javascript",
+    "Working as a junior developer for Biproxi Comercial Real Estate.",
+    "Learning Rust",
+    "Improved Development Workflow",
   ]
   
   hobbies: [
