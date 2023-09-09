@@ -15,22 +15,22 @@
 <h2>A Little Bit About Me and My Interests 📸</h2>
 
 ```ruby
-Description.Create(
+Description.create(
   name: "Kade Illian",
   location: "Bozeman, Montana",
   education: "Actualize Bootcamp", "Self-Taught",
   areas_of_interests: [
     "T3",
     "Rust",
-    "Ruby on Rails",
+    "Go",
     "DevOps",
     "Next.js",
-    "Typescript",
-    "Data Optimization",
+    "Functional Programming",
+    "Relational Database Optimization",
   ]
   what_i_am_working_on: [
     "Working as a junior developer for Biproxi Comercial Real Estate.",
-    "Learning Rust",
+    "Building www.billianfinances.com",
     "Learning the T3 Stack"
     "Improving Development Workflow",
   ]
