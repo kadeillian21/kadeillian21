@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  A Software Engineer for Biproxi
+  A Software Engineer for Blackhyve
 </h1>
 
 <p align="center">
@@ -14,34 +14,32 @@
 
 <h2>A Little Bit About Me and My Interests 📸</h2>
 
-```ruby
-Description.create(
+```typescript
+const kadeIllian = {
   name: "Kade Illian",
   location: "Bozeman, Montana",
   education: "Actualize Bootcamp", "Self-Taught",
   areas_of_interests: [
-    "T3",
-    "Rust",
-    "Go",
-    "DevOps",
     "Next.js",
+    "Typescript
+    "Vibe Coding",
     "Functional Programming",
     "Relational Database Optimization",
   ]
   what_i_am_working_on: [
-    "Working as a junior developer for Biproxi Comercial Real Estate.",
-    "Building www.billianfinances.com",
-    "Learning the T3 Stack"
-    "Improving Development Workflow",
+    "Working as a software developer for Blackhyve.",
+    "Building www.kadeillian.com",
+    "Making a deal analyzer at www.verayield.com"
+    "Tons of small severe weather small app ideas",
   ]
   
   hobbies: [
-    "Backpacking",
-    "Financial Planning",
+    "Severe Weather Forecasting",
+    "Real Estate",
     "Lifting",
-    "Fly Fishing",
+    "Shed Hunting",
   ]
-)
+}
 ```
   
 ---  
